@@ -1,0 +1,22 @@
+{
+  "name": "qrlocate",
+  "version": "0.0.1",
+  "description": "Utility for Generating QR Code for a location (Eircode)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmcsherry/QRLocate.git"
+  },
+  "author": "Mark McSherry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmcsherry/QRLocate/issues"
+  },
+  "homepage": "https://github.com/markmcsherry/QRLocate#readme"
+}
