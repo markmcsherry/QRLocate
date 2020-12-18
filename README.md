@@ -5,3 +5,7 @@
 ## Description
 
 Utility for locations - creates a QR Code for Google Map given an eircode
+
+## Details
+
+Github
